@@ -1,0 +1,103 @@
+
+
+Cute right thank you for accepting our invitation to be part of this interview, so yeah awesome, so Reza and then June we're both from CS570, it's a human computer interaction class where we study designs. And kind of relates user experience with designs so our main domain in this class is the UW student job portal so I believe you have used the student job portal before yeah because I work in the HR department so oh yeah, I use this a lot okay, so you must be very familiar with how it functionality works and everything. 
+
+I will leave so okay, yeah so in our previous assignment, so this is our fourth assignments so you know a previous assignment we and, Analyze the current job portal and there are some breakdowns from the current job portals that we fixed yeah some of them. Some of like the functions that are available on the current job portal are missing something that makes some user feels uncomfortable using them so we fit some of them. 
+
+I can't tell you right now what we fit but we'll figure out once we go once we move along the interview session sure all right, so first of all the process of these interview is gonna be like this so I will give you a task and then. You will act as the master of this student job portal so what I mean by that is acting as master means you will explain to us how to do how to solve the task okay, so for example, if I give you a task where like for example like create an account so you show us how you would create an account based on this design. 
+
+And explain it to us. And just remember to explain it to us a lot so that we can put that in our record sure awesome are we ready June yeah, all right so the first task is alright so before that I'm just gonna show you yeah, so this is the main page of the student job portal and this is the account page of the job portal so first of all, you might want to look at this one yeah this once you go to the website you'll be on the main page. 
+
+All right awesome, so the first task is. To log in. Or create an account if you haven't done that, uh-huh. And fill in your account with your latest information and your latest resume okay yeah with that design, so how would you do that? Um, and just show it to us like what are you gonna click so I think the first thing that I'm gonna do is like, surely I'm just gonna click the login button right there because even though it's small but you could definitely that button right there, so I'm just proud. 
+
+I'm just gonna like click that button and I would assume something would come out like create account or something or if you haven't if you have already an account and you should put your net ID. I believe yeah. So yeah and then I'm just gonna like put in my net ID, I believe so once I put in my net ID it should lead me to this homepage again. 
+
+I believe yeah, so if I give you yep, I mean this I think yes this one. Or yeah like we don't always need okay, all right so did you had any did you have any trouble you smell like why did you put something on the test bots and then you click on mess no cuz like there's like to specific boxes because different spots as for the is for the users that already have the net ID and like the second box is for people who don't have the net ID mm-hmm, so I was confused at the first glance because, I'm not sure which box should I put in my information I guess okay, but when I see the net ID word then I'm pretty sure that or the box that I should use thank you okay yeah all right so you sign in return that ID okay so quick next yeah, okay so now you've gone to the main thing oh this company okay right so again from the task you have to fill out your information so just like update your profile basically mm-hmm and also I've, Upload your resume so where and how would you do that so I'll probably go to the documents part because most like most websites that I've used that I have to use before to apply for jobs. 
+
+I guess like that's to where we should upload our right resumes cover letters and all so I believe it should be at the document step all right so good yeah so we just imagine that it appears and then you upload it yeah on the website mhm, it's like the same one. 
+
+Oh we don't have it yet of the resume yeah we should be like update resume oh alright. This is only thing. Alright, um, and then how would you update your profile? From here from here like this page yeah correct oh and there's actually oh and icon that's cut off okay, so I guess like when I uploaded my resume at all when I can start applying for jobs, I'll probably I'm just gonna click the home icon button right there and just put in my information like biography and all mm-hmm like work experience and all so yeah, all right, yes really put that peers yeah that one. 
+
+This so you click that one so yeah, we'll have like you are options where you can update your profile and bring to you to this mm-hmm, so here is where you update your profile, so no so after you put in your information and stuff. How would you update your education status? 
+
+I guess like this is just my own opinion. I would put the higher education first mm-hmm because like that's the. Mmm, most common thing that people were based on this yeah here uh-huh where would you click to update your education status it should be right there, okay because there's like education tab right there, mm-hmm so I'm just gonna click on that button and then just update my education status. 
+
+I got and the first thing should be like my education right now in UW okay, it's like this the most recent one so yeah, all right and would you add more education on that education page? If it's for the university. I don't think I would at any more education background because. 
+
+Like this is for is this for only university jobs or yeah, so yeah just for a UW student job sorry, it's so if it's for UW student jobs. I'll probably just use UW education status I guess because that's the most relevant I guess yeah, okay, thank you all right, so we're done with the first task, oh this is so exciting yeah, yes, thank you very much. 
+
+All right, so the next step is the next task is we want you to find a. Finance related job in the college of letters and sciences that pays you more than $15 an hour and on top of that make sure the job has a good rating okay, so what was you oh is it from start from here yeah sure you can stop from there. 
+
+I guess I'm just gonna go to homepage again, mm-hmm just like this is the progress that I did I guess so when I go to the home page I should use the more filters tab. I'm just gonna click that. App then just one second, so you click on filters that right yeah the filters that'll filters more easy more filter yeah more filters, that's right. 
+
+You have that we don't have more filters yeah. I think the more filters we'll like to the the moment three bars which one there. To go do we have it. Oh wait. Me check. Oh it will be still like her the progressive are not sure what to call it like 30, oh. 
+
+This thing. 
+
+Is sucks, here you go. Okay. 
+
+Here you go, so when you click on more filters, these are the only like oh there's no shows up yeah so sorry for no yeah seconds like for the wage oh what's what's the difference between witch and salary? Um, so do you have like any idea what is that gonna be like do you think I guess like the wage is basically just per hour and like the salary is like the month monthly salary I guess correct, okay yeah so for the week yeah, I'll probably just think you said 15 the minimum should be 15 dollars fifteen dollars an hour an hour so I guess I'm just gonna cuz I believe like in UW the minimum wage should be ten bucks, mm-hm an hour and a like fifteen bucks. 
+
+Should be the maximum for students, so I'm just gonna put maximum then for the range for the salary also should be near to the maximum spectrum. I guess and for the user readings should be nine or ten. I guess yeah, okay and then what else you're gonna pick? So so you just like yeah, so click on the filters this should be an enter but then I guess so just click on the enter button and I guess like it should sort out all the jobs that match the filters that I just chose and then I go to a search column and just write. 
+
+Just write collision letters and signs. I guess then the job should come out like like the finance stuff, maybe like business, uh, Admin horizontal or maybe maybe like financial coordinator should come out so yeah right and then how about the educators are you gonna use them or not really because you oh so we have a lot of filters right here correct, oh okay sorry so so yeah, we're design is not good enough for you to know that it's a filter yeah, I guess like you should like a yeah drop down or something mm-hmm, okay because I thought this like, I don't know that's fine, but like the job type I would say, Maybe if I click on a job type I should come out. 
+
+Job type so job type is like is it a office like student job oh or like research or something like that, so I guess like for the job type it should be student job publication. I'm just gonna put you down you mm-hmm because we do have like a lot of office jobs for business students like anywhere in the in the university for student year. 
+
+Yeah definitely because. I believe like many hiring committee would only hire either so far more or freshman because they want them to stay longer so which one would you pick for students here should be judgment, okay, yeah. So for the industry yeah like business or engineering, yes. Yeah so for industry yeah, I'm just gonna click the finance part and also the business management practice you said I should find any jobs related to financing mm-hmm, so yeah, all right sounds good. 
+
+Right, so no where um, where can I look at? The jobs like where will the job appears so the job search should be appear at the at this big square thing where and how do I know it is the highest rating and also the favorite is 15 dollars hmm. 
+
+I guess I the rating should be like I guess like the only one of the ways that I could identify the rating it should be like how the list is how the job is listed because the highest highest rating should be at that top and like the lowest rating should be at the bottom hmm so it should be like so you just assume that or is die just assume that is there do you think is there a functionality that you can I think above and yeah, definitely because like you want obviously you want to find jobs. 
+
+It has that has to highest rating so you said that you see that anywhere on our where on the website like is there like something that we can store no but I guess like all the jobs here are my number ten, so I guess it's pretty similar they're pretty similar so that's why they're. 
+
+Are at least it is actually dropped out right here, sorry features, oh I know why you know, it's like printing spear okay, okay okay, so basically you can click on that mmm and then survive, okay. Oh okay that'd be great man, yeah then I would personally would. Go to. 
+
+Hide so low wages and salary okay yeah instead of the helium okay, but if you can pick more than one would you pick more than one or just like that yeah, I would say hi to low and high to low hide the low for which and salary also use this ratings. 
+
+You can have like two sorting right the combination over both shipped and sometimes oh great so like you usually like most like big companies they would use AI to see how you wish. I spent a heart right but it's alright okay, so. Have one more question for you sure so how do you know that you feel comfortable working flying for that job is there how how do you get more information about that specific company or specific job so I feel like I'm just so if I serve for example, I'm just gonna give you a situation. 
+
+I guess I would personally click the first one here and I'm like, why should come out? So here yeah this should come out and I would read the description requirements period and contact equals. I guess like everything on the this box. I would just a job that has the most detailed description because like you really want to know what what you are entering. 
+
+I guess like what you are going to do in the future, so the description is very very important for me for my perspective. I guess okay, and also the requirements also because like, You want to know what's gonna do in the job so the requirements also very important and also the period obviously you and how much you get paid yeah all right and then how do you apply for that job? 
+
+I could probably go to for more information click this thing but other I don't think so that one so just gonna go to the homepage again. I mean, like click back I guess because I don't want it. I don't want everything to mess up again, so just go click back and just hit the apply now button, alright sounds good. 
+
+Awesome, so I'm gonna pick this back. Alright so now imagine that. Why no I. 
+
+It's like reference and those crap oh so you have like we've updated that on our profile right so when we click apply it's just like move all the information from the profile to yeah to here and also to the employers so they'll get information from overcome we don't have to write it down again. 
+
+I mean, that's all I need for fun. I thought we had to like put some something something kind of like service serving like, you know, if we actually like, Find out yeah, so that's why he did so like these previous. Oh, okay. Just look you have to make like every letter to make a huge time for everything just use like big, um, I think we can use me as this thing like this one you mean yeah like well this one. 
+
+Something like this well I guess we can just use yeah yeah we might be able to cut it down a little bit cuz like you use have to fill out your information again yeah but that doesn't necessary because you have because I've filled out your information in the beginning so doesn't make sense to do that again right okay, so now so just imagine that you have applied for the job. 
+
+Poses three correct? So imagine you have applied for the job now how would you update your original references for the job you applied for so basically when you apply for the job you will have to fill out like two like at least one person as a reference, oh, okay your job so no just imagine that is already on the system how would you update their reference do you anything you should do? 
+
+I'm just gonna go to the home icon and just click my profile. I guess mm-hmm and edit my profile now, what do you mean by who my icon which one is This one or this one okay yeah you can click on that okay yeah and then you click on distribute like something like edit my profile or something mm-hmm then I'm just gonna click on that and then at my referee information hmm probably at at more a freeze than just more than just one so yeah see so usually like for every job that you apply you have different references, okay, so it is actually updating references is actually not in their company, oh okay it would be. 
+
+A somewhere here so because references. Every reference is different based on the job, so you apply for okay, so how are you gonna find like the? The update references option on these jobs, oh okay, so I guess like I should click on the tree dots mm-hmm. And update job all right yeah okay sounds good and then you'll just update your references a bit what but what I have a question why do you have to give different referees for different jobs yes it's like when you're applying to like college library or maybe I'm saying applying to the IT, yeah, then I'll put resize reference but if I'm applying to college every hour reference, my friend was working on oh gosh, yeah cool, yeah. 
+
+All right, thank you very much so we're good with the third task and this is our last task sure all right the last task is very. I was a very intuitive hopefully huh by our design so the task is we draw so just imagine that you have applied for a job, so now how would you withdraw your application? 
+
+I think I just saw it, so it's just gonna click the tree button again, mm-hmm and delete job all right, okay. Oh okay this one's what's your phone for again for like writing reviews already reviews, oh I guess we can't do that just like yes. 
+
+We have to think how to put them to like write a review right well let's impossible where do you click? I mean, you should only let people who actually work yeah because they're fair, you know, or maybe maybe like applicants can also do I mean, don't be weird like how they rate their job, even if they don't get a job, oh that's correct, okay, so we'll think about that all right, that's right, all right, so. 
+
+The last step is this basically, how do you log out from the whole website? 
+
+I should be able to click on the home icon again and then there should be like this scroll down let's go down the drop down and then just click log out alright sounds good okay, so thank you very much we have fulfill all the tasks yay, oh yeah thank you for participating in our interview no problem. 
+
+I feel like I just wanted you to find comments yes sure it's a pretty good thing that you guys do. I guess okay, just so you guys know like any because I'm measuring an economy so like an economy. It's we have this one. 
+
+I just like. Element and economics when an economics where we really want people to have jobs so we really prioritize the matching efficiency so for to improving the matching efficiency this kind of thing our like it's very helpful for people to find jobs so yeah, it's a good thing you guys do this yeah thank you very much for yeah, it could increase the matching efficiency like so it helps people to find jobs. 
+
+I see okay yeah thank you so it's one last thing yeah sure do you have like any feedbacks under? Design why? Or maybe something that we need to take on or maybe you have any questions what design like, why are we doing that those kind of stuff? I feel like it's pretty simple so it's good for on the users to use it, so I don't really have comments about your design because I know it's just like a sketch one it's not like ah the final the final ice version on the website right, oh I guess like one thing. 
+
+You think it would be easier better and more efficient than the previous ones then the current job portal. I feel like yeah because like for the current job portal when you want to apply jobs you have to fill in every time you want to like you have to fill in your information every time when I'll apply for a job but free for you guys you guys did like a very good the very good job and like asking people to feel and they are information first priority prior to applying for jobs and then they key, they can't basically use the same information to use the to apply for jobs. 
+
+All right, so it's a good one I guess but I guess like for the most of this part just probably cut this out and just put filters and then when they click on fruits, mmm, they could be like, oh dropdown and you just feel like that in right there, so yeah, it's a close all right, thank you very much. 
+
+I call no problem mm-hmm so we so for us what we're gonna do is we will evaluate our interview today and we'll see how we can improve our design and it will have another interview with someone else if someone. Are you yeah to see that after we improve based on your income on this interview session how the nets user will feel sure or how your experiencing over website so yeah, thank you forever thank you very much for participating we will update you with our progress such as like maybe when when we finalized our design we'll just enjoy an email. 
+
+I'll be very happy to check your website yeah, all right, it's very exciting thank you awesome have a good night right you too.
